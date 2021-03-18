@@ -110,6 +110,7 @@
             android:layout_height="wrap_content"
             android:text="Add customer"
             android:layout_marginLeft="20dp"
+            android:backgroundTint="#AEABAB"
             />
         <Button
             android:layout_width="wrap_content"
@@ -117,6 +118,7 @@
             android:text="Search customer"
             android:layout_marginLeft="30dp"
             android:id="@+id/rvListSearch"
+            android:backgroundTint="#AEABAB"
             />
     </LinearLayout>
 </LinearLayout>
